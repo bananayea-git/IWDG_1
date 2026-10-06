@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/RM/IWDG/build/cmake_install.cmake",
+		"D:/RM/IWDG/build/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
